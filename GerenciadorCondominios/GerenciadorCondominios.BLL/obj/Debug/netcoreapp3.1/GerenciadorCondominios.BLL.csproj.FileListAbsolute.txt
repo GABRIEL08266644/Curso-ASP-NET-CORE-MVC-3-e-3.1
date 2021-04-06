@@ -1,0 +1,9 @@
+C:\Users\aneso\source\repos\GerenciadorCondominios\GerenciadorCondominios.BLL\bin\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.deps.json
+C:\Users\aneso\source\repos\GerenciadorCondominios\GerenciadorCondominios.BLL\bin\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.dll
+C:\Users\aneso\source\repos\GerenciadorCondominios\GerenciadorCondominios.BLL\bin\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.pdb
+C:\Users\aneso\source\repos\GerenciadorCondominios\GerenciadorCondominios.BLL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.csprojAssemblyReference.cache
+C:\Users\aneso\source\repos\GerenciadorCondominios\GerenciadorCondominios.BLL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.AssemblyInfoInputs.cache
+C:\Users\aneso\source\repos\GerenciadorCondominios\GerenciadorCondominios.BLL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.AssemblyInfo.cs
+C:\Users\aneso\source\repos\GerenciadorCondominios\GerenciadorCondominios.BLL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.csproj.CoreCompileInputs.cache
+C:\Users\aneso\source\repos\GerenciadorCondominios\GerenciadorCondominios.BLL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.dll
+C:\Users\aneso\source\repos\GerenciadorCondominios\GerenciadorCondominios.BLL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.pdb

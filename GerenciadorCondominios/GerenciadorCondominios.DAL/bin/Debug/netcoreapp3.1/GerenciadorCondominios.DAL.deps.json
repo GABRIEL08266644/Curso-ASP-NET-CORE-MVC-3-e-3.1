@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GerenciadorCondominios.DAL/1.0.0": {
+        "dependencies": {
+          "GerenciadorCondominios.BLL": "1.0.0"
+        },
+        "runtime": {
+          "GerenciadorCondominios.DAL.dll": {}
+        }
+      },
+      "GerenciadorCondominios.BLL/1.0.0": {
+        "runtime": {
+          "GerenciadorCondominios.BLL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GerenciadorCondominios.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GerenciadorCondominios.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
